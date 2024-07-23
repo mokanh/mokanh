@@ -4,7 +4,7 @@
 
 As a dedicated Software Engineer, I am passionate about delving into the visual intricacies of the web, emphasizing usability, performance, and accessibility. My expertise lies in leveraging JavaScript to create dynamic and efficient web applications. Currently, I am thriving as a Frontend Engineer at a leading Express Logistic Plaform company based in Bandung, Indonesia.
 
-
+### About Me ↓
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%2C790%20hrs%2028%20mins-blue)
