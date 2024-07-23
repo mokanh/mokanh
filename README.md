@@ -7,4 +7,39 @@ As a dedicated Software Engineer, I am passionate about delving into the visual 
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C790%20hrs%2028%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 9.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 302 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+CSS                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mokanh/mokanh/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/07/2024 08:41:18 UTC
 <!--END_SECTION:waka-->
