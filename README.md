@@ -7,7 +7,7 @@ As a dedicated Software Engineer, I am passionate about delving into the visual 
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C699%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C706%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -36,13 +36,13 @@ Sunday                   227 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   31 hrs 28 mins      ████████████████░░░░░░░░░   62.56 % 
-TypeScript               7 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-PHP                      6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Bash                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-JavaScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Vue.js                   37 hrs 30 mins      ██████████████████░░░░░░░   73.87 % 
+TypeScript               7 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+PHP                      2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+JavaScript               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+CSS                      50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 
 
- Last Updated on 20/02/2025 01:08:24 UTC
+ Last Updated on 21/02/2025 01:08:45 UTC
 <!--END_SECTION:waka-->
