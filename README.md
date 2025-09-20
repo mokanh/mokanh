@@ -7,10 +7,8 @@ As a dedicated Software Engineer, I am passionate about delving into the visual 
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C598%20hrs%207%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 19/09/2025 01:14:34 UTC
+ Last Updated on 20/09/2025 01:10:43 UTC
 <!--END_SECTION:waka-->
