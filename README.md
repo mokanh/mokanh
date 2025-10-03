@@ -7,38 +7,8 @@ As a dedicated Software Engineer, I am passionate about delving into the visual 
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C604%20hrs%205%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1054 commits        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-🌆 Daytime                1318 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-🌃 Evening                1854 commits        █████████░░░░░░░░░░░░░░░░   37.01 % 
-🌙 Night                  784 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   600 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Tuesday                  786 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Wednesday                1289 commits        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-Thursday                 1112 commits        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Friday                   423 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Saturday                 446 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Sunday                   354 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 02/10/2025 01:12:16 UTC
+ Last Updated on 03/10/2025 01:12:42 UTC
 <!--END_SECTION:waka-->
