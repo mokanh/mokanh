@@ -7,7 +7,7 @@ As a dedicated Software Engineer, I am passionate about delving into the visual 
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C702%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C702%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
@@ -36,13 +36,13 @@ Sunday                   366 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   39.67 % 
-JavaScript               12 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-TOML                     6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Lua                      3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Astro                    1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+TypeScript               11 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   41.01 % 
+JavaScript               5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+TOML                     4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Lua                      3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Astro                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 ```
 
 
- Last Updated on 25/10/2025 01:14:10 UTC
+ Last Updated on 26/10/2025 01:21:26 UTC
 <!--END_SECTION:waka-->
