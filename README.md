@@ -13,7 +13,7 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C302%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C310%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -42,13 +42,13 @@ Sunday                   587 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-Markdown                 4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
-TypeScript               3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Astro                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JavaScript               13 hrs 6 mins       ███████████████░░░░░░░░░░   59.47 % 
+Markdown                 4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+TypeScript               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Astro                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 
- Last Updated on 02/04/2026 02:03:11 UTC
+ Last Updated on 03/04/2026 02:04:49 UTC
 <!--END_SECTION:waka-->
