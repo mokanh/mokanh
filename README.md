@@ -13,42 +13,10 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C356%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C357%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.77%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2733 commits        ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-🌆 Daytime                3757 commits        ████████░░░░░░░░░░░░░░░░░   32.28 % 
-🌃 Evening                3688 commits        ████████░░░░░░░░░░░░░░░░░   31.69 % 
-🌙 Night                  1460 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1685 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Wednesday                2746 commits        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Thursday                 2992 commits        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Friday                   1004 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Saturday                 646 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Sunday                   596 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               18 hrs 14 mins      ████████████████████████░   97.73 % 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
-
-
- Last Updated on 29/04/2026 02:40:28 UTC
+ Last Updated on 30/04/2026 02:41:05 UTC
 <!--END_SECTION:waka-->
