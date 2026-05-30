@@ -13,8 +13,42 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C455%20hrs%2051%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.20%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 29/05/2026 02:55:19 UTC
+```text
+🌞 Morning                2868 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+🌆 Daytime                3961 commits        ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌃 Evening                3738 commits        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌙 Night                  1497 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1754 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Tuesday                  2043 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Wednesday                2861 commits        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Thursday                 3096 commits        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+Friday                   1055 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Saturday                 652 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Sunday                   603 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               5 hrs 52 mins       █████████████░░░░░░░░░░░░   53.90 % 
+TypeScript               2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Docker                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+```
+
+
+ Last Updated on 30/05/2026 02:48:29 UTC
 <!--END_SECTION:waka-->
