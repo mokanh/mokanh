@@ -13,10 +13,42 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C528%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C531%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.27%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3095 commits        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+🌆 Daytime                4342 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
+🌃 Evening                3888 commits        ████████░░░░░░░░░░░░░░░░░   30.17 % 
+🌙 Night                  1561 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1867 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Tuesday                  2188 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Wednesday                3007 commits        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Thursday                 3381 commits        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Friday                   1126 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Saturday                 673 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Sunday                   644 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
 
 
- Last Updated on 21/06/2026 03:49:21 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               9 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.59 % 
+Markdown                 7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
+Bash                     3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+TypeScript               2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Vue                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+```
+
+
+ Last Updated on 22/06/2026 03:55:43 UTC
 <!--END_SECTION:waka-->
