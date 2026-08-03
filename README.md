@@ -17,24 +17,24 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.13%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3472 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-🌆 Daytime                4833 commits        █████████░░░░░░░░░░░░░░░░   34.30 % 
-🌃 Evening                4144 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌞 Morning                3471 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌆 Daytime                4832 commits        █████████░░░░░░░░░░░░░░░░   34.30 % 
+🌃 Evening                4142 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
 🌙 Night                  1641 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2044 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Tuesday                  2433 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Wednesday                3329 commits        ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Thursday                 3641 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Friday                   1275 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Tuesday                  2432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Wednesday                3327 commits        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Thursday                 3641 commits        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+Friday                   1274 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 Saturday                 696 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 Sunday                   672 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
@@ -72,5 +72,5 @@ JSON                     7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/08/2026 02:29:34 UTC
+ Last Updated on 03/08/2026 02:31:57 UTC
 <!--END_SECTION:waka-->
