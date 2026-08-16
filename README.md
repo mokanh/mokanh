@@ -13,9 +13,9 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C457%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C459%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,35 +44,35 @@ Sunday                   684 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 5 mins        █████████████████████████   99.96 % 
+JavaScript               7 hrs               █████████████████████████   99.97 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 42 mins (38.24%)
+⏱ AI Coding Time: 9 mins (2.2%)
 
-✍️ 400 lines written by AI, 15 lines written by hand (96.39% AI-written)
+✍️ 22 lines written by AI, 218 lines written by hand (9.17% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 16 AI Prompts
+🧠 2 AI Sessions, 20 AI Prompts
 
-Sonnet                   428 lines           █████████████████████████   100.00 % 
+Sonnet                   42 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.39% of written lines came from AI
-📄 Detailed Prompter — average 832 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 12.3% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 9.17% of written lines came from AI
+📄 Detailed Prompter — average 668 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 89.45% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 01:05:56 UTC
+ Last Updated on 16/08/2026 01:08:51 UTC
 <!--END_SECTION:waka-->
