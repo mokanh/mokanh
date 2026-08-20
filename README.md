@@ -13,7 +13,7 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C459%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C463%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2040%20mins-blue?style=flat)
 
@@ -22,20 +22,20 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3934 commits        ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-🌆 Daytime                5125 commits        ████████░░░░░░░░░░░░░░░░░   33.36 % 
-🌃 Evening                4536 commits        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-🌙 Night                  1767 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+🌞 Morning                3942 commits        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+🌆 Daytime                5132 commits        ████████░░░░░░░░░░░░░░░░░   33.37 % 
+🌃 Evening                4536 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌙 Night                  1767 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2130 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Tuesday                  2627 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Wednesday                3591 commits        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Thursday                 3805 commits        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-Friday                   1448 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Saturday                 1077 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Monday                   2130 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Tuesday                  2627 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Wednesday                3606 commits        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Thursday                 3805 commits        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Friday                   1448 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Saturday                 1077 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 Sunday                   684 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 
@@ -44,35 +44,32 @@ Sunday                   684 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 26 mins       █████████████████████████   99.96 % 
+JavaScript               6 hrs 52 mins       █████████████████████████   99.98 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (2.39%)
+⏱ AI Coding Time: 5 mins (1.45%)
 
-✍️ 22 lines written by AI, 217 lines written by hand (9.21% AI-written)
+✍️ 4 lines written by AI, 232 lines written by hand (1.69% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 20 AI Prompts
+🧠 1 AI Sessions, 10 AI Prompts
 
-Sonnet                   42 lines            █████████████████████████   100.00 % 
+Sonnet                   24 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.21% of written lines came from AI
-📄 Detailed Prompter — average 668 characters per prompt
+🧑‍💻 Mostly Hands-On — 1.69% of written lines came from AI
+📝 Concise Prompter — average 155 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 89.37% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.78% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 01:05:08 UTC
+ Last Updated on 20/08/2026 01:06:06 UTC
 <!--END_SECTION:waka-->
