@@ -13,9 +13,9 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C493%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C494%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,33 +44,30 @@ Sunday                   724 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               15 hrs 15 mins      ████████████████████░░░░░   80.51 % 
-Markdown                 2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-TypeScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               12 hrs 40 mins      ████████████████████████░   97.70 % 
+TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 10 mins (32.62%)
+⏱ AI Coding Time: 2 hrs 18 mins (17.83%)
 
-✍️ 0 lines written by AI, 13 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 59 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 56 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📄 Detailed Prompter — average 753 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 05:31:24 UTC
+ Last Updated on 30/08/2026 03:28:06 UTC
 <!--END_SECTION:waka-->
