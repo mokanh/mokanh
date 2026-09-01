@@ -19,55 +19,6 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.59%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                4398 commits        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-🌆 Daytime                5833 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
-🌃 Evening                4789 commits        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-🌙 Night                  1820 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2332 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Tuesday                  2866 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Wednesday                3985 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Thursday                 4208 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-Friday                   1618 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Saturday                 1107 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Sunday                   724 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               12 hrs 35 mins      ████████████████████████░   97.68 % 
-TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 18 mins (17.93%)
-
-✍️ 0 lines written by AI, 58 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 6 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 753 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 31/08/2026 03:25:28 UTC
+ Last Updated on 01/09/2026 03:28:12 UTC
 <!--END_SECTION:waka-->
