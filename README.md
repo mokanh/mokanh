@@ -13,28 +13,28 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C494%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C495%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.09%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.13%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4462 commits        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-🌆 Daytime                5982 commits        █████████░░░░░░░░░░░░░░░░   34.93 % 
-🌃 Evening                4830 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+🌞 Morning                4463 commits        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+🌆 Daytime                5983 commits        █████████░░░░░░░░░░░░░░░░   34.93 % 
+🌃 Evening                4832 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
 🌙 Night                  1850 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2399 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Tuesday                  2915 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Wednesday                4032 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Tuesday                  2916 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Wednesday                4034 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
 Thursday                 4290 commits        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Friday                   1651 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Friday                   1652 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 Saturday                 1111 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 Sunday                   726 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
@@ -44,8 +44,8 @@ Sunday                   726 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               10 hrs 15 mins      ████████████████████████░   97.11 % 
-TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JavaScript               11 hrs 10 mins      ████████████████████████░   97.34 % 
+TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -53,7 +53,7 @@ Git                      0 secs              ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 20 mins (22.08%)
+⏱ AI Coding Time: 2 hrs 20 mins (20.35%)
 
 ✍️ 0 lines written by AI, 57 lines written by hand (0.0% AI-written)
 
@@ -71,5 +71,5 @@ Git                      0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/09/2026 02:44:46 UTC
+ Last Updated on 03/09/2026 02:52:11 UTC
 <!--END_SECTION:waka-->
