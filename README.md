@@ -22,19 +22,19 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4733 commits        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-🌆 Daytime                6427 commits        █████████░░░░░░░░░░░░░░░░   35.69 % 
-🌃 Evening                4970 commits        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-🌙 Night                  1877 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+🌞 Morning                4734 commits        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+🌆 Daytime                6430 commits        █████████░░░░░░░░░░░░░░░░   35.70 % 
+🌃 Evening                4970 commits        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+🌙 Night                  1878 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Tuesday                  3070 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Wednesday                4262 commits        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Monday                   2519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Tuesday                  3070 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Wednesday                4265 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
 Thursday                 4504 commits        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-Friday                   1779 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Friday                   1780 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 Saturday                 1131 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 Sunday                   743 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
@@ -44,32 +44,18 @@ Sunday                   743 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               15 hrs 32 mins      ██████████████████████░░░   89.78 % 
-TypeScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JavaScript               15 hrs 32 mins      ████████████████████████░   97.01 % 
+TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (7.46%)
-
-✍️ 0 lines written by AI, 73 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 10 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 94 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/09/2026 03:02:13 UTC
+ Last Updated on 14/09/2026 03:14:33 UTC
 <!--END_SECTION:waka-->
