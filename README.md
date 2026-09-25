@@ -13,17 +13,17 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C529%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C530%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.30%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4878 commits        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-🌆 Daytime                6833 commits        █████████░░░░░░░░░░░░░░░░   36.59 % 
+🌞 Morning                4881 commits        ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+🌆 Daytime                6835 commits        █████████░░░░░░░░░░░░░░░░   36.59 % 
 🌃 Evening                5044 commits        ███████░░░░░░░░░░░░░░░░░░   27.01 % 
 🌙 Night                  1918 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
@@ -31,10 +31,10 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 
 ```text
 Monday                   2637 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Tuesday                  3219 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Tuesday                  3219 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 Wednesday                4389 commits        ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Thursday                 4673 commits        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-Friday                   1874 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Thursday                 4675 commits        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Friday                   1877 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 Saturday                 1136 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 Sunday                   745 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
@@ -44,35 +44,35 @@ Sunday                   745 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               10 hrs 7 mins       ███████████████████████░░   90.19 % 
-TypeScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JavaScript               9 hrs 27 mins       ████████████████████████░   96.32 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (10.66%)
+⏱ AI Coding Time: 28 mins (4.86%)
 
-✍️ 2,505 lines written by AI, 162 lines written by hand (93.93% AI-written)
+✍️ 1,211 lines written by AI, 176 lines written by hand (87.31% AI-written)
 
-🔤 495,727 Input Tokens, 111,739 Output Tokens
+🔤 911,303 Input Tokens, 60,093 Output Tokens
 
-💵 $79.84 Estimated AI Cost This Week
+💵 $50.40 Estimated AI Cost This Week
 
 🧠 4 AI Sessions, 8 AI Prompts
 
-Opencode-Cli             2,534 lines         █████████████████████████   100.00 % 
+Opencode-Cli             1,224 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.93% of written lines came from AI
-📄 Detailed Prompter — average 984 characters per prompt
+🤖 AI-Driven — 87.31% of written lines came from AI
+📚 Verbose Prompter — average 8,476 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 10.93% of changed lines were hand-edited
+🚀 High AI Trust — 27.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 03:02:44 UTC
+ Last Updated on 25/09/2026 03:19:21 UTC
 <!--END_SECTION:waka-->
