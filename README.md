@@ -13,30 +13,30 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C537%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C542%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.44%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5078 commits        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌆 Daytime                7277 commits        █████████░░░░░░░░░░░░░░░░   37.36 % 
-🌃 Evening                5142 commits        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+🌞 Morning                5079 commits        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+🌆 Daytime                7285 commits        █████████░░░░░░░░░░░░░░░░   37.39 % 
+🌃 Evening                5142 commits        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
 🌙 Night                  1979 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2805 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Tuesday                  3376 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Wednesday                4524 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-Thursday                 4891 commits        ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-Friday                   1982 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Tuesday                  3385 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Wednesday                4524 commits        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Thursday                 4891 commits        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Friday                   1982 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 Saturday                 1145 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Sunday                   753 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Sunday                   753 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 
 
@@ -44,17 +44,33 @@ Sunday                   753 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               12 mins             ██████████████░░░░░░░░░░░   55.89 % 
-JSON                     9 mins              ███████████░░░░░░░░░░░░░░   44.03 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               5 hrs 27 mins       ████████████████████████░   96.98 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (2.72%)
+
+✍️ 263 lines written by AI, 6 lines written by hand (97.77% AI-written)
+
+🔤 82,350 Input Tokens, 10,321 Output Tokens
+
+💵 $1.87 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Opencode-Cli             263 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.77% of written lines came from AI
+📄 Detailed Prompter — average 762 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 9.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 04:46:17 UTC
+ Last Updated on 07/10/2026 04:11:09 UTC
 <!--END_SECTION:waka-->
