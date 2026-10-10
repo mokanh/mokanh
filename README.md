@@ -13,9 +13,9 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C546%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C547%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,34 +44,35 @@ Sunday                   753 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 19 mins       ██████████████████░░░░░░░   72.26 % 
-Python                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Other                    1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               8 hrs 15 mins       █████████████████░░░░░░░░   69.93 % 
+Python                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Other                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (31.83%)
+⏱ AI Coding Time: 4 hrs 52 mins (41.21%)
 
-✍️ 310 lines written by AI, 5 lines written by hand (98.41% AI-written)
+✍️ 328 lines written by AI, 4 lines written by hand (98.8% AI-written)
 
-🔤 223,453 Input Tokens, 70,513 Output Tokens
+🔤 277,007 Input Tokens, 85,307 Output Tokens
 
-💵 $17.90 Estimated AI Cost This Week
+💵 $20.63 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 7 AI Sessions, 18 AI Prompts
 
-Opencode-Cli             313 lines           █████████████████████████   100.00 % 
+Opencode-Cli             331 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.41% of written lines came from AI
-📝 Concise Prompter — average 299 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.4% of changed lines were hand-edited
+🤖 AI-Driven — 98.8% of written lines came from AI
+📝 Concise Prompter — average 238 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 6.76% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 04:28:55 UTC
+ Last Updated on 10/10/2026 04:14:44 UTC
 <!--END_SECTION:waka-->
