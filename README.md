@@ -19,6 +19,58 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.89%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 19/10/2026 03:09:42 UTC
+```text
+🌞 Morning                5304 commits        ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+🌆 Daytime                7583 commits        █████████░░░░░░░░░░░░░░░░   37.61 % 
+🌃 Evening                5283 commits        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+🌙 Night                  1994 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2865 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Tuesday                  3556 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Wednesday                4698 commits        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Thursday                 5035 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Friday                   2082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Saturday                 1156 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Sunday                   772 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               23 hrs 21 mins      █████████████████████████   99.60 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 50 mins (16.38%)
+
+✍️ 73 lines written by AI, 85 lines written by hand (46.2% AI-written)
+
+🔤 605,637 Input Tokens, 28,319 Output Tokens
+
+💵 $12.30 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 29 AI Prompts
+
+DeepSeek                 50 lines            █████████████████░░░░░░░░   68.49 % 
+Opencode-Cli             23 lines            ████████░░░░░░░░░░░░░░░░░   31.51 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 46.2% of written lines came from AI
+📝 Concise Prompter — average 201 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 66.97% of changed lines were hand-edited
+```
+
+
+ Last Updated on 20/10/2026 03:19:36 UTC
 <!--END_SECTION:waka-->
