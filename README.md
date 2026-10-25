@@ -13,9 +13,9 @@ I am currently based in Bandung, Indonesia (🇮🇩) and am open to remote coll
 ### About Me ↓
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C589%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C592%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.90%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,37 +44,37 @@ Sunday                   772 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               26 hrs 11 mins      ██████████████████████░░░   88.50 % 
-Markdown                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               18 hrs 26 mins      █████████████████████░░░░   82.93 % 
+Markdown                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 12 mins (24.36%)
+⏱ AI Coding Time: 8 hrs 8 mins (36.57%)
 
-✍️ 1,438 lines written by AI, 93 lines written by hand (93.93% AI-written)
+✍️ 1,454 lines written by AI, 78 lines written by hand (94.91% AI-written)
 
-🔤 2,079,779 Input Tokens, 164,399 Output Tokens
+🔤 2,465,934 Input Tokens, 174,977 Output Tokens
 
-💵 $65.57 Estimated AI Cost This Week
+💵 $77.82 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 43 AI Prompts
+🧠 8 AI Sessions, 54 AI Prompts
 
-Vscode                   1,128 lines         ███████████████████░░░░░░   76.42 % 
-DeepSeek                 348 lines           ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode                   1,175 lines         ████████████████████░░░░░   78.07 % 
+DeepSeek                 328 lines           █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Opencode-Cli             2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.93% of written lines came from AI
-📄 Detailed Prompter — average 616 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 14.29% of changed lines were hand-edited
+🤖 AI-Driven — 94.91% of written lines came from AI
+📄 Detailed Prompter — average 567 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 12.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 03:11:47 UTC
+ Last Updated on 25/10/2026 03:06:51 UTC
 <!--END_SECTION:waka-->
